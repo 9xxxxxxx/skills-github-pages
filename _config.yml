@@ -1,5 +1,2 @@
-theme: jekyll-theme-minimal
-title: "大标题"
-description: "小黄小黄~"
-show_downloads: true
-google_analytics:
+theme: minima
+
